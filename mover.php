@@ -1,1 +1,1 @@
-<?php echo 'Holipoli jo' ?>
+<?php echo 'Holipoli ' ?>
