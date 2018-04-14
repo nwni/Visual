@@ -1,1 +1,1 @@
-<?php echo 'Cambio de Erick ' ?>
+<?php echo 'Cambio de Erick' ?>
